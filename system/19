@@ -1,0 +1,25 @@
+//service --status-all
+
+[ - ] alsa-utils
+[ - ] anacron
+[ + ] avahi-daemon
+[ - ] bluetooth
+[ - ] console-setup.sh
+[ + ] cron
+[ + ] dbus
+[ + ] gdm3
+[ - ] hwclock.sh
+[ - ] keyboard-setup.sh
+[ + ] kmod
+[ + ] minissdpd
+[ + ] network-manager
+[ + ] networking
+[ - ] pppd-dns
+[ + ] procps
+[ + ] rsyslog
+[ - ] saned
+[ + ] speech-dispatcher
+[ + ] ssh
+[ + ] udev
+[ + ] unattended-upgrades
+[ - ] x11-common
